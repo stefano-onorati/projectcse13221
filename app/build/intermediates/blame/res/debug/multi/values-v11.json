@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 435
+                    }
+                }
+            }
+        ]
+    }
+]

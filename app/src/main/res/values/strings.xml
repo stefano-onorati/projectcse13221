@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SearchInterfaceExperiment</string>
+    <string name="initials">Initials</string>
+    <string name="participantCode">Participant Code</string>
+    <string name="sessionCode">Session Code</string>
+    <string name="groupCode">Group Code</string>
+    <string name="searchCode">Search Interface</string>
+    <string name="arrayCode">Trial</string>
+    <string name="blockcode">Block Code</string>
+    <string name="conditioncode">Condition Code</string>
+    <string name="searchText">Search Interface = </string>
+    <string name="arrayText">Array = </string>
+    <string name="timeText">Time = </string>
+    <string name="effText">Efficiency Rate = </string>
+    <string name="rateText">Search Rate = </string>
+    <string name="ok">Begin</string>
+    <string name="save">Save</string>
+    <string name="reset">Setup</string>
+    <string name="exit">Exit</string>
+</resources>

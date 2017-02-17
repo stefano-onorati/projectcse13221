@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- not using this yet -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#105c7b"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#CDC9C9"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/resultsTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:text="SIE RESULTS"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="25dp"
+                android:fontFamily="sans-serif-medium" />
+            </LinearLayout>
+
+            <TableLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/searchText"
+                android:id="@+id/searchTextView"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="sans-serif-light" />
+
+                </TableRow>
+
+            <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/arrayText"
+                android:id="@+id/arrayTextView"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="sans-serif-light" />
+                </TableRow>
+
+                <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/timeText"
+                android:id="@+id/timeTextView"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="sans-serif-light" />
+                </TableRow>
+
+                <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/effText"
+                android:id="@+id/effTextView"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="sans-serif-light" />
+                </TableRow>
+
+                <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/rateText"
+                android:id="@+id/rateTextView"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="sans-serif-light"
+                android:focusable="false" />
+
+                </TableRow>
+
+            </TableLayout>
+
+        <!-- BEGIN customizable part of setup -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/setup"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onSetup"
+                android:text="@string/reset"
+                android:textAppearance="?android:attr/textAppearanceMedium">
+            </Button>
+
+            <Button
+                android:id="@+id/exit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onExit"
+                android:text="@string/exit"
+                android:textAppearance="?android:attr/textAppearanceMedium">
+            </Button>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

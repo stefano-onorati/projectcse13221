@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="food">
+        <item>Allspice</item> 
+        <item>Almond Butter</item>
+        <item>Almonds</item>
+         <item>Apricots</item>
+         <item>Bacon</item>
+         <item>Baguette</item>
+         <item>Beer</item>
+         <item>Blackberries</item> 
+        <item>Broccoli</item>
+         <item>Cantaloupes</item>
+         <item>Cauliflower</item> 
+        <item>Celery</item>
+         <item>Chives</item>
+        <item>Cream Cheese</item>
+         <item>Eggplants</item>
+        <item>Eggs</item>
+         <item>Flax Seed</item> 
+        <item>French Fries</item>
+        <item>Garlic Powder</item>
+         <item>Green Beans</item>
+         <item>Green Onions</item>
+        <item>Haddock</item>
+        <item>Horseradish</item>
+        <item>Jack Cheese</item>
+        <item>Jicama</item>
+         <item>Kidney Beans</item>
+        <item>Lamb</item>
+        <item>Lasagna</item>
+         <item>Lemon</item>
+        <item>Lime</item> 
+        <item>Mandarin Oranges</item>
+         <item>Marmalade</item>
+        <item>Marshmallows</item> 
+        <item>Milk</item> 
+        <item>Mushrooms</item>
+         <item>Nectarines</item>
+         <item>Octopus</item>
+        <item>Okra</item>
+         <item>Oregano</item> 
+        <item>Peaches</item>
+        <item>Pesto</item>
+        <item>Plums</item>
+         <item>Poppy Seeds</item>
+        <item>Pork</item>
+        <item>Rabbit</item> 
+        <item>Rhubarb</item>
+         <item>Rice</item>
+        <item>Ricotta Cheese</item>
+         <item>Salmon</item>
+         <item>Salt</item>
+         <item>Sausages</item>
+         <item>Steak</item> 
+        <item>Sweet Potatoes</item> 
+        <item>Tomato Sauce</item>
+        <item>Vanilla Ice Cream</item>
+        <item>Venison</item>
+        <item>Walnuts</item> 
+        <item>Watermelon</item> 
+        <item>Wine</item> 
+        <item>Yogurt</item>
+    </string-array>
+    <string-array name="people">
+        <item>Albert Einstein</item>
+        <item>Angela Merkel</item>
+         <item>Angelina Jolie</item>
+         <item>Antonio Banderas</item>
+         <item>Audrey Hepburn</item>
+         <item>Ben Affleck</item>
+         <item>Ben Stiller</item> 
+        <item>Benedict Cumberbatch</item> 
+        <item>Bruce Willis</item>
+         <item>Bryan Cranston</item> 
+        <item>Chris Evans</item>
+         <item>Chris Pratt</item>
+         <item>Christian Bale</item>
+        <item>Christina Aguilera</item>
+        <item>Coco Chanel</item>
+         <item>Daisy Ridley</item> 
+        <item>Diana, Princess of Wales</item>
+        <item>DJ Khaled</item>
+         <item>Donald Trump</item> 
+        <item>Dwayne Johnson</item>
+         <item>Eddie Murphy</item> 
+        <item>Elvis Presley</item>
+         <item>Emilia Clarke</item>
+         <item>Eminem</item>
+         <item>Emma Stone</item>
+         <item>Halle Berry</item>
+         <item>Hulk Hogan</item> 
+        <item>J.K. Simmons</item> 
+        <item>Jake Gyllenhaal</item>
+         <item>Jennifer Lawrence</item>
+         <item>Jennifer Love Hewitt</item>
+        <item>Justin Trudeau</item>
+         <item>Kate Winslet</item>
+         <item>Katy Perry</item>
+         <item>Keira Knightley</item>
+         <item>Kevin Hart</item>
+         <item>Kobe Bryant</item>
+         <item>Lady Gaga</item>
+         <item>Leonardo DiCaprio</item>
+         <item>Maisie Williams</item>
+         <item>Margot Robbie</item>
+         <item>Marilyn Monroe</item> 
+        <item>Miley Cyrus</item>
+         <item>Naomi Watts</item>
+         <item>Natalie Portman</item>
+         <item>Rachael Ray</item>
+         <item>Robert Downey Jr.</item> 
+        <item>Rosa Parks</item>
+         <item>Ryan Reynolds</item> 
+        <item>Samuel L. Jackson</item>
+         <item>Sandra Bullock</item>
+        <item>Sean Connery</item>
+         <item>Selena Gomez</item>
+         <item>Taylor Swift</item>
+         <item>Tina Fey</item>
+         <item>Tom Cruise</item>
+         <item>Uma Thurman</item>
+         <item>Vin Diesel</item> 
+        <item>Vladimir Putin</item>
+         <item>Wesley Snipes</item>
+    </string-array>
+    <string-array name="country">
+        <item>Algeria</item>
+        <item>Australia</item>
+        <item>Barbados</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Congo</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>Dominican Republic</item>
+        <item>England</item>
+        <item>Ethiopia</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Hong Kong</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Ivory Coast</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Liechtenstein</item>
+        <item>Luxembourg</item>
+        <item>Mexico</item>
+        <item>Morocco</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Pakistan</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Saudi Arabia</item>
+        <item>Scotland</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>Swaziland</item>
+        <item>Thailand</item>
+        <item>Turkey</item>
+        <item>United Arab Emirates</item>
+        <item>United States of America</item>
+        <item>Vanuatu</item>
+        <item>Vietnam</item>
+    </string-array>
+    <string-array name="movie">
+        <item>American Gangster</item>
+        <item>Amy</item>
+        <item>Aquamarine</item>
+        <item>Batman v Superman: Dawn of Justice</item>
+        <item>Braveheart</item>
+        <item>Bridesmaids</item>
+        <item>Brooklyn</item>
+        <item>Burnt</item>
+        <item>Captain America: Civil War</item>
+        <item>Cars</item>
+        <item>Cinderella</item>
+        <item>Conan the Barbarian</item>
+        <item>Deadpool</item>
+        <item>Divergent</item>
+        <item>Dr. Seuss\' The Cat in the Hat</item>
+        <item>Fantastic Four</item>
+        <item>Fifty Shades of Grey</item>
+        <item>First Blood</item>
+        <item>Gods of Egypt</item>
+        <item>Good Will Hunting</item>
+        <item>Guardians of the Galaxy</item>
+        <item>Harry Potter and the Chamber of Secrets</item>
+        <item>Highlander</item>
+        <item>Hotel Transylvania 2</item>
+        <item>Hunger Games: Catching Fire, The</item>
+        <item>In the Heart of the Sea</item>
+        <item>John Wick</item>
+        <item>Jurassic World</item>
+        <item>Keanu</item>
+        <item>Kingsman: The Secret Service</item>
+        <item>Knock Knock</item>
+        <item>Kung Fu Panda</item>
+        <item>Kung Fu Panda 2</item>
+        <item>Law-Abiding Citizen</item>
+        <item>Lego Movie, The</item>
+        <item>Live Die Repeat: Edge of Tomorrow</item>
+        <item>Love the Coopers</item>
+        <item>Mad Max: Fury Road</item>
+        <item>Man from U.N.C.L.E., The</item>
+        <item>Man of Steel</item>
+        <item>Martian, The</item>
+        <item>Pitch Perfect</item>
+        <item>Pitch Perfect 2</item>
+        <item>Professional, The</item>
+        <item>Reservoir Dogs</item>
+        <item>Revenant, The</item>
+        <item>Road to Perdition</item>
+        <item>Room</item>
+        <item>Scarface</item>
+        <item>Spectre</item>
+        <item>Spotlight</item>
+        <item>Star Wars: The Empire Strikes Back</item>
+        <item>Star Wars: The Force Awakens</item>
+        <item>Suicide Squad</item>
+        <item>Trumbo</item>
+        <item>Whiplash</item>
+        <item>Wizard of Oz, The</item>
+        <item>Wolf of Wall Street</item>
+        <item>Wreck-It Ralph</item>
+        <item>Zoolander</item>
+    </string-array>
+    <string-array name="team">
+        <item>Anaheim Ducks</item>
+        <item>AS Monaco</item>
+        <item>Atlanta Falcons</item>
+        <item>Atlanta Hawks</item>
+        <item>Atletico Madrid</item>
+        <item>Bayer Leverkusen 04</item>
+        <item>Borussia Dortmund</item>
+        <item>Brooklyn Nets</item>
+        <item>Buffalo Sabres</item>
+        <item>Carolina Panthers</item>
+        <item>Chelsea FC</item>
+        <item>Chicago Fire</item>
+        <item>Cincinnati Bengals</item>
+        <item>Cleveland Indians</item>
+        <item>DC United</item>
+        <item>Denver Broncos</item>
+        <item>Everton</item>
+        <item>FC Barcelona</item>
+        <item>FC Bayern Munich</item>
+        <item>Fiorentina</item>
+        <item>Florida Panthers</item>
+        <item>Hamburger SV</item>
+        <item>Hertha BSC</item>
+        <item>Indiana Pacers</item>
+        <item>Inter Milan</item>
+        <item>Juventus</item>
+        <item>Lazio</item>
+        <item>Leicester City FC</item>
+        <item>LOSC Lille</item>
+        <item>Malaga CF</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Milwaukee Bucks</item>
+        <item>Minnesota Timberwolves</item>
+        <item>New York City FC</item>
+        <item>New York Islanders</item>
+        <item>New York Yankees</item>
+        <item>Nice</item>
+        <item>Oakland Raiders</item>
+        <item>Olympique de Marseille</item>
+        <item>Olympique Lyonnais</item>
+        <item>Palermo</item>
+        <item>Paris Saint-Germain</item>
+        <item>Philadelphia Phillies</item>
+        <item>Portland Timbers</item>
+        <item>Real Madrid</item>
+        <item>San Diego Padres</item>
+        <item>San Jose Sharks</item>
+        <item>Sevilla FC</item>
+        <item>Sporting Kansas City</item>
+        <item>SSC Napoli</item>
+        <item>Texas Rangers</item>
+        <item>Toronto Blue Jays</item>
+        <item>Toronto Maple Leafs</item>
+        <item>Toronto Raptors</item>
+        <item>Tottenham Hotspur</item>
+        <item>Vancouver Whitecaps FC</item>
+        <item>Vfl Wolfsburg</item>
+        <item>Villarreal CF</item>
+        <item>Washington Redskins</item>
+    </string-array>
+
+</resources>

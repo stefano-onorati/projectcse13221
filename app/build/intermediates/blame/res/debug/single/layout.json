@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/layout/textlayout.xml",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/textlayout.xml"
+    },
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/layout/spinnerstyle.xml",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/spinnerstyle.xml"
+    },
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/layout/listviewlayout.xml",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/listviewlayout.xml"
+    },
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/layout/imagelayout.xml",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/imagelayout.xml"
+    },
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/layout/grid_single.xml",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/grid_single.xml"
+    },
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/layout/setup.xml",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/setup.xml"
+    },
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/layout/results.xml",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/results.xml"
+    }
+]

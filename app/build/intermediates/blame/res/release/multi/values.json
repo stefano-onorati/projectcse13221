@@ -1,0 +1,559 @@
+[
+    {
+        "outputFile": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/release/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1907
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/arrayItems.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 4164,
+                        "endLine": 188,
+                        "endColumn": 19,
+                        "endOffset": 6016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1912,
+                    "endLine": 125,
+                    "endColumn": 20,
+                    "endOffset": 4314
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/imageDrawables.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 7781,
+                        "endLine": 249,
+                        "endColumn": 20,
+                        "endOffset": 10183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4319,
+                    "endLine": 187,
+                    "endColumn": 19,
+                    "endOffset": 6220
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/arrayItems.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 64,
+                        "endColumn": 19,
+                        "endOffset": 1957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 6225,
+                    "endLine": 249,
+                    "endColumn": 20,
+                    "endOffset": 8658
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/imageDrawables.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2733,
+                        "endLine": 125,
+                        "endColumn": 20,
+                        "endOffset": 5166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 8663,
+                    "endLine": 311,
+                    "endColumn": 19,
+                    "endOffset": 10965
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/arrayItems.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 6021,
+                        "endLine": 250,
+                        "endColumn": 19,
+                        "endOffset": 8323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 10970,
+                    "endLine": 373,
+                    "endColumn": 20,
+                    "endOffset": 13575
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/imageDrawables.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5171,
+                        "endLine": 187,
+                        "endColumn": 20,
+                        "endOffset": 7776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 13580,
+                    "endLine": 435,
+                    "endColumn": 19,
+                    "endOffset": 15777
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/arrayItems.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 1962,
+                        "endLine": 126,
+                        "endColumn": 19,
+                        "endOffset": 4159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 15782,
+                    "endLine": 497,
+                    "endColumn": 20,
+                    "endOffset": 18455
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/imageDrawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 63,
+                        "endColumn": 20,
+                        "endOffset": 2728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 18460,
+                    "endLine": 559,
+                    "endColumn": 19,
+                    "endOffset": 20679
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/arrayItems.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 8328,
+                        "endLine": 312,
+                        "endColumn": 19,
+                        "endOffset": 10547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 20684,
+                    "endLine": 621,
+                    "endColumn": 20,
+                    "endOffset": 23296
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/imageDrawables.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 10188,
+                        "endLine": 311,
+                        "endColumn": 20,
+                        "endOffset": 12800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 622,
+                    "startColumn": 4,
+                    "startOffset": 23301,
+                    "endColumn": 62,
+                    "endOffset": 23359
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 623,
+                    "startColumn": 4,
+                    "startOffset": 23364,
+                    "endColumn": 43,
+                    "endOffset": 23403
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 43,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 624,
+                    "startColumn": 4,
+                    "startOffset": 23408,
+                    "endColumn": 46,
+                    "endOffset": 23450
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 46,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 625,
+                    "startColumn": 4,
+                    "startOffset": 23455,
+                    "endColumn": 48,
+                    "endOffset": 23499
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 48,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 626,
+                    "startColumn": 4,
+                    "startOffset": 23504,
+                    "endColumn": 56,
+                    "endOffset": 23556
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 56,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 627,
+                    "startColumn": 4,
+                    "startOffset": 23561,
+                    "endColumn": 54,
+                    "endOffset": 23611
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 54,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 628,
+                    "startColumn": 4,
+                    "startOffset": 23616,
+                    "endColumn": 37,
+                    "endOffset": 23649
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endColumn": 37,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 629,
+                    "startColumn": 4,
+                    "startOffset": 23654,
+                    "endColumn": 48,
+                    "endOffset": 23698
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 48,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 630,
+                    "startColumn": 4,
+                    "startOffset": 23703,
+                    "endColumn": 45,
+                    "endOffset": 23744
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 45,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 631,
+                    "startColumn": 4,
+                    "startOffset": 23749,
+                    "endColumn": 36,
+                    "endOffset": 23781
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 36,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 632,
+                    "startColumn": 4,
+                    "startOffset": 23786,
+                    "endColumn": 60,
+                    "endOffset": 23842
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 60,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 633,
+                    "startColumn": 4,
+                    "startOffset": 23847,
+                    "endColumn": 51,
+                    "endOffset": 23894
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 51,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 634,
+                    "startColumn": 4,
+                    "startOffset": 23899,
+                    "endColumn": 39,
+                    "endOffset": 23934
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endColumn": 39,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 635,
+                    "startColumn": 4,
+                    "startOffset": 23939,
+                    "endColumn": 37,
+                    "endOffset": 23972
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 37,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 636,
+                    "startColumn": 4,
+                    "startOffset": 23977,
+                    "endColumn": 55,
+                    "endOffset": 24028
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 55,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 637,
+                    "startColumn": 4,
+                    "startOffset": 24033,
+                    "endColumn": 58,
+                    "endOffset": 24087
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endColumn": 58,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 638,
+                    "startColumn": 4,
+                    "startOffset": 24092,
+                    "endColumn": 52,
+                    "endOffset": 24140
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 52,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 639,
+                    "startColumn": 4,
+                    "startOffset": 24145,
+                    "endColumn": 44,
+                    "endOffset": 24185
+                },
+                "from": {
+                    "file": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 44,
+                        "endOffset": 680
+                    }
+                }
+            }
+        ]
+    }
+]

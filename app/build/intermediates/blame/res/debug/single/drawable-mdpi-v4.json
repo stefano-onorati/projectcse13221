@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search.png",
+        "source": "/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-mdpi/search.png"
+    }
+]

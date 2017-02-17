@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res"/><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/generated/res/rs/debug"/><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res"><file name="alberteinstein" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/alberteinstein.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="algeria" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/algeria.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="allspice" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/allspice.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="almondbutter" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/almondbutter.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="almonds" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/almonds.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="americangangster" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/americangangster.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="amy" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/amy.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="anaheimducks" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/anaheimducks.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="angelamerkel" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/angelamerkel.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="angelinajolie" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/angelinajolie.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="antoniobanderas" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/antoniobanderas.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="apricots" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/apricots.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="aquamarine" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/aquamarine.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="asmonaco" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/asmonaco.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="atlantafalcons" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/atlantafalcons.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="atlantahawks" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/atlantahawks.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="atletico" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/atletico.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="audreyhepburn" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/audreyhepburn.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="australia" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/australia.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bacon" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/bacon.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="baguette" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/baguette.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="barbados" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/barbados.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="barca" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/barca.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="batmanvsuperman" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/batmanvsuperman.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bayer" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/bayer.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bayern" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/bayern.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="beer" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/beer.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="belgium" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/belgium.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="benaffleck" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/benaffleck.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="benedictcumberbatch" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/benedictcumberbatch.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="benstiller" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/benstiller.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="blacberries" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/blacberries.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="borussia" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/borussia.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="braveheart" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/braveheart.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="brazil" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/brazil.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bridesmaids" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/bridesmaids.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="broccoli" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/broccoli.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="brooklyn" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/brooklyn.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="brooklynnets" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/brooklynnets.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="brucewillis" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/brucewillis.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="bryancranston" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/bryancranston.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="buffalosabres" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/buffalosabres.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="burnt" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/burnt.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="canada" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/canada.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="cantaloupe" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/cantaloupe.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="captainamerica" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/captainamerica.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="carolinapanthers" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/carolinapanthers.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="cars" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/cars.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="cauliflower" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/cauliflower.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="celery" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/celery.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="chad" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/chad.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="chelsea" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/chelsea.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="chicagofire" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/chicagofire.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="chile" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/chile.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="china" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/china.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="chives" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/chives.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="chrisevans" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/chrisevans.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="chrispratt" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/chrispratt.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="christianbale" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/christianbale.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="christinaaguilera" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/christinaaguilera.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="cincinnatibengals" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/cincinnatibengals.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="cinderella" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/cinderella.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="clevelandindians" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/clevelandindians.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="cocochanel" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/cocochanel.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="conan" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/conan.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="congo" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/congo.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="creamcheese" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/creamcheese.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="croatia" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/croatia.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="daisyridley" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/daisyridley.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="dcunited" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/dcunited.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="deadpool" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/deadpool.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="denmark" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/denmark.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="denverbroncos" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/denverbroncos.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="divergent" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/divergent.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="djkhaled" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/djkhaled.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="dominican" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/dominican.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="donaldtrump" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/donaldtrump.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="drseuss" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/drseuss.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="dwaynejohnson" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/dwaynejohnson.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="eddiemurphy" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/eddiemurphy.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="eggplant" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/eggplant.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="eggs" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/eggs.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="egypt" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/egypt.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="elvispresley" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/elvispresley.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="emiliaclarke" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/emiliaclarke.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="eminem" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/eminem.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="emmastone" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/emmastone.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="england" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/england.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ethiopia" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ethiopia.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="everton" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/everton.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="fant4stic" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/fant4stic.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="fiftyshades" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/fiftyshades.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="fiorentina" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/fiorentina.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="firstblood" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/firstblood.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="flaxseed" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/flaxseed.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="floridapanthers" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/floridapanthers.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="france" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/france.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="fries" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/fries.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="garlicpowder" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/garlicpowder.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="germany" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/germany.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ghana" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ghana.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="godsofegypt" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/godsofegypt.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="goodwill" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/goodwill.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="greenbeans" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/greenbeans.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="greenonions" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/greenonions.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="guardians" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/guardians.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="haddock" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/haddock.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="halleberry" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/halleberry.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="harrypotter" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/harrypotter.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="hertha" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/hertha.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="highlander" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/highlander.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="hongkong" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/hongkong.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="horseradish" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/horseradish.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="hoteltransylvania" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/hoteltransylvania.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="hsv" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/hsv.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="hulkhogan" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/hulkhogan.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="india" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/india.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="indianapacers" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/indianapacers.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="indonesia" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/indonesia.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="inter" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/inter.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="intheheart" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/intheheart.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="iran" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/iran.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="iraq" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/iraq.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ireland" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ireland.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="israel" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/israel.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="italy" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/italy.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ivorycoast" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ivorycoast.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jackcheese" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jackcheese.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jakegyllenhaal" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jakegyllenhaal.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jamaica" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jamaica.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="japan" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/japan.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jenniferlawrence" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jenniferlawrence.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jenniferlovehewitt" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jenniferlovehewitt.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jicama" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jicama.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jksimmons" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jksimmons.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="johnwick" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/johnwick.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="jurassicworld" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/jurassicworld.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="justintrudeau" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/justintrudeau.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="juventus" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/juventus.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="katewinslet" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/katewinslet.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="katyperry" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/katyperry.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kazakhstan" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kazakhstan.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="keanu" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/keanu.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="keiraknightley" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/keiraknightley.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kenya" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kenya.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kevinhart" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kevinhart.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kidneybeans" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kidneybeans.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kingsman" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kingsman.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="knockknock" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/knockknock.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kobebryant" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kobebryant.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kungfupanda" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kungfupanda.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="kungfupanda2" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/kungfupanda2.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ladygaga" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ladygaga.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lamb" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lamb.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lasagna" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lasagna.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lawabiding" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lawabiding.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lazio" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lazio.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="leicester" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/leicester.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lemon" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lemon.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="leonardodicaprio" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/leonardodicaprio.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="liechtenstein" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/liechtenstein.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lille" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lille.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lime" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lime.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="livedierepeat" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/livedierepeat.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lovethecoopers" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lovethecoopers.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="luxembourg" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/luxembourg.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lyon" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/lyon.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="madmax" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/madmax.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="maisiewilliams" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/maisiewilliams.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="malaga" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/malaga.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="manchestercity" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/manchestercity.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="manchesterunited" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/manchesterunited.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="mandarin" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/mandarin.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="manofsteel" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/manofsteel.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="margotrobbie" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/margotrobbie.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="marilynmonroe" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/marilynmonroe.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="marmalade" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/marmalade.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="marseille" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/marseille.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="marshmallow" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/marshmallow.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="mexico" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/mexico.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="mileycyrus" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/mileycyrus.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="milk" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/milk.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="milwaukeebucks" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/milwaukeebucks.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="minnesotawolve" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/minnesotawolve.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="morocco" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/morocco.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="mushrooms" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/mushrooms.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="naomiwatts" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/naomiwatts.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="napoli" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/napoli.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="natalieportman" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/natalieportman.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="nectarine" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/nectarine.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="netherlands" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/netherlands.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="newyorkcityfc" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/newyorkcityfc.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="newyorkislanders" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/newyorkislanders.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="newzealand" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/newzealand.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="nice" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/nice.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="nigeria" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/nigeria.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="northkorea" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/northkorea.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="nyyankees" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/nyyankees.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="oaklandraiders" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/oaklandraiders.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="octopus" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/octopus.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="okra" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/okra.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="oregano" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/oregano.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="pakistan" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/pakistan.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="palermo" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/palermo.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="paraguay" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/paraguay.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="peaches" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/peaches.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="peru" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/peru.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="pesto" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/pesto.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="philadelphiaphillies" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/philadelphiaphillies.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="pitchperfect" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/pitchperfect.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="pitchperfect2" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/pitchperfect2.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="plums" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/plums.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="poland" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/poland.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="poppyseeds" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/poppyseeds.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="pork" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/pork.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="portlandtimbers" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/portlandtimbers.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="portugal" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/portugal.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="princessdiana" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/princessdiana.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="psg" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/psg.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="rabbit" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/rabbit.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="rachaelray" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/rachaelray.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="realmadrid" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/realmadrid.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="reservoirdogs" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/reservoirdogs.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="rhubarb" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/rhubarb.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="rice" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/rice.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ricotta" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ricotta.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="roadtoperdition" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/roadtoperdition.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="robertdowneyjr" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/robertdowneyjr.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="romania" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/romania.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="room" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/room.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="rosaparks" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/rosaparks.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="russia" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/russia.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ryanreynolds" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/ryanreynolds.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="salmon" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/salmon.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="salt" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/salt.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="samueljackson" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/samueljackson.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sandiegopadres" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sandiegopadres.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sandrabullock" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sandrabullock.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sanjosesharks" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sanjosesharks.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="saudi" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/saudi.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sausages" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sausages.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="scarface" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/scarface.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="scotland" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/scotland.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="seanconnery" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/seanconnery.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="search" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/search.png" qualifiers="hdpi-v4" type="drawable"/><file name="selenagomez" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/selenagomez.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sevilla" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sevilla.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="singapore" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/singapore.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="slovakia" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/slovakia.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="southafrica" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/southafrica.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="southkorea" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/southkorea.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="spectre" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/spectre.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sportingkc" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sportingkc.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="spotlight" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/spotlight.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="starwarstheempire" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/starwarstheempire.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="starwarstheforce" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/starwarstheforce.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="steak" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/steak.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="suicidesquad" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/suicidesquad.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sunderland" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sunderland.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="swaziland" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/swaziland.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="sweetpotatoes" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/sweetpotatoes.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="taylorswift" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/taylorswift.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="texasrangers" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/texasrangers.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="thailand" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/thailand.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="thehungergames" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/thehungergames.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="thelegomovie" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/thelegomovie.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="themanfromuncle" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/themanfromuncle.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="themartian" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/themartian.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="theprofessional" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/theprofessional.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="therevenant" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/therevenant.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="thewizardofoz" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/thewizardofoz.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="tinafey" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/tinafey.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="tomatosauce" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/tomatosauce.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="tomcruise" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/tomcruise.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="torontobluejays" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/torontobluejays.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="torontomapleleafs" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/torontomapleleafs.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="torontoraptors" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/torontoraptors.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="tottenham" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/tottenham.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="trumbo" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/trumbo.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="turkey" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/turkey.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="uae" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/uae.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="umathurman" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/umathurman.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="usa" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/usa.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="vancouverwhitecaps" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/vancouverwhitecaps.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="vanillaicecream" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/vanillaicecream.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="vanuatu" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/vanuatu.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="venison" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/venison.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="vietnam" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/vietnam.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="villareal" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/villareal.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="vindiesel" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/vindiesel.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="vladputin" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/vladputin.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="walnuts" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/walnuts.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="washingtonredskins" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/washingtonredskins.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="watermelon" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/watermelon.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="wesleysnipes" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/wesleysnipes.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="whiplash" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/whiplash.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="wine" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/wine.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="wolfofwallstreet" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/wolfofwallstreet.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="wolfsburg" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/wolfsburg.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="wreckitralph" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/wreckitralph.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="yogurt" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/yogurt.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="zoolander" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-hdpi/zoolander.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="search" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-ldpi/search.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="search" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-mdpi/search.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="search" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/drawable-xhdpi/search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="grid_single" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/grid_single.xml" qualifiers="" type="layout"/><file name="imagelayout" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/imagelayout.xml" qualifiers="" type="layout"/><file name="listviewlayout" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/listviewlayout.xml" qualifiers="" type="layout"/><file name="results" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/results.xml" qualifiers="" type="layout"/><file name="setup" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/setup.xml" qualifiers="" type="layout"/><file name="spinnerstyle" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/spinnerstyle.xml" qualifiers="" type="layout"/><file name="textlayout" path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/layout/textlayout.xml" qualifiers="" type="layout"/><file path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/arrayItems.xml" qualifiers=""><string-array name="country">
+        <item>Algeria</item>
+        <item>Australia</item>
+        <item>Barbados</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Congo</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>Dominican Republic</item>
+        <item>England</item>
+        <item>Ethiopia</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Hong Kong</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Ivory Coast</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Liechtenstein</item>
+        <item>Luxembourg</item>
+        <item>Mexico</item>
+        <item>Morocco</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Pakistan</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Saudi Arabia</item>
+        <item>Scotland</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>Swaziland</item>
+        <item>Thailand</item>
+        <item>Turkey</item>
+        <item>United Arab Emirates</item>
+        <item>United States of America</item>
+        <item>Vanuatu</item>
+        <item>Vietnam</item>
+    </string-array><string-array name="food">
+        <item>Allspice</item> 
+        <item>Almond Butter</item>
+        <item>Almonds</item>
+         <item>Apricots</item>
+         <item>Bacon</item>
+         <item>Baguette</item>
+         <item>Beer</item>
+         <item>Blackberries</item> 
+        <item>Broccoli</item>
+         <item>Cantaloupes</item>
+         <item>Cauliflower</item> 
+        <item>Celery</item>
+         <item>Chives</item>
+        <item>Cream Cheese</item>
+         <item>Eggplants</item>
+        <item>Eggs</item>
+         <item>Flax Seed</item> 
+        <item>French Fries</item>
+        <item>Garlic Powder</item>
+         <item>Green Beans</item>
+         <item>Green Onions</item>
+        <item>Haddock</item>
+        <item>Horseradish</item>
+        <item>Jack Cheese</item>
+        <item>Jicama</item>
+         <item>Kidney Beans</item>
+        <item>Lamb</item>
+        <item>Lasagna</item>
+         <item>Lemon</item>
+        <item>Lime</item> 
+        <item>Mandarin Oranges</item>
+         <item>Marmalade</item>
+        <item>Marshmallows</item> 
+        <item>Milk</item> 
+        <item>Mushrooms</item>
+         <item>Nectarines</item>
+         <item>Octopus</item>
+        <item>Okra</item>
+         <item>Oregano</item> 
+        <item>Peaches</item>
+        <item>Pesto</item>
+        <item>Plums</item>
+         <item>Poppy Seeds</item>
+        <item>Pork</item>
+        <item>Rabbit</item> 
+        <item>Rhubarb</item>
+         <item>Rice</item>
+        <item>Ricotta Cheese</item>
+         <item>Salmon</item>
+         <item>Salt</item>
+         <item>Sausages</item>
+         <item>Steak</item> 
+        <item>Sweet Potatoes</item> 
+        <item>Tomato Sauce</item>
+        <item>Vanilla Ice Cream</item>
+        <item>Venison</item>
+        <item>Walnuts</item> 
+        <item>Watermelon</item> 
+        <item>Wine</item> 
+        <item>Yogurt</item>
+    </string-array><string-array name="team">
+        <item>Anaheim Ducks</item>
+        <item>AS Monaco</item>
+        <item>Atlanta Falcons</item>
+        <item>Atlanta Hawks</item>
+        <item>Atletico Madrid</item>
+        <item>Bayer Leverkusen 04</item>
+        <item>Borussia Dortmund</item>
+        <item>Brooklyn Nets</item>
+        <item>Buffalo Sabres</item>
+        <item>Carolina Panthers</item>
+        <item>Chelsea FC</item>
+        <item>Chicago Fire</item>
+        <item>Cincinnati Bengals</item>
+        <item>Cleveland Indians</item>
+        <item>DC United</item>
+        <item>Denver Broncos</item>
+        <item>Everton</item>
+        <item>FC Barcelona</item>
+        <item>FC Bayern Munich</item>
+        <item>Fiorentina</item>
+        <item>Florida Panthers</item>
+        <item>Hamburger SV</item>
+        <item>Hertha BSC</item>
+        <item>Indiana Pacers</item>
+        <item>Inter Milan</item>
+        <item>Juventus</item>
+        <item>Lazio</item>
+        <item>Leicester City FC</item>
+        <item>LOSC Lille</item>
+        <item>Malaga CF</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Milwaukee Bucks</item>
+        <item>Minnesota Timberwolves</item>
+        <item>New York City FC</item>
+        <item>New York Islanders</item>
+        <item>New York Yankees</item>
+        <item>Nice</item>
+        <item>Oakland Raiders</item>
+        <item>Olympique de Marseille</item>
+        <item>Olympique Lyonnais</item>
+        <item>Palermo</item>
+        <item>Paris Saint-Germain</item>
+        <item>Philadelphia Phillies</item>
+        <item>Portland Timbers</item>
+        <item>Real Madrid</item>
+        <item>San Diego Padres</item>
+        <item>San Jose Sharks</item>
+        <item>Sevilla FC</item>
+        <item>Sporting Kansas City</item>
+        <item>SSC Napoli</item>
+        <item>Texas Rangers</item>
+        <item>Toronto Blue Jays</item>
+        <item>Toronto Maple Leafs</item>
+        <item>Toronto Raptors</item>
+        <item>Tottenham Hotspur</item>
+        <item>Vancouver Whitecaps FC</item>
+        <item>Vfl Wolfsburg</item>
+        <item>Villarreal CF</item>
+        <item>Washington Redskins</item>
+    </string-array><string-array name="people">
+        <item>Albert Einstein</item>
+        <item>Angela Merkel</item>
+         <item>Angelina Jolie</item>
+         <item>Antonio Banderas</item>
+         <item>Audrey Hepburn</item>
+         <item>Ben Affleck</item>
+         <item>Ben Stiller</item> 
+        <item>Benedict Cumberbatch</item> 
+        <item>Bruce Willis</item>
+         <item>Bryan Cranston</item> 
+        <item>Chris Evans</item>
+         <item>Chris Pratt</item>
+         <item>Christian Bale</item>
+        <item>Christina Aguilera</item>
+        <item>Coco Chanel</item>
+         <item>Daisy Ridley</item> 
+        <item>Diana, Princess of Wales</item>
+        <item>DJ Khaled</item>
+         <item>Donald Trump</item> 
+        <item>Dwayne Johnson</item>
+         <item>Eddie Murphy</item> 
+        <item>Elvis Presley</item>
+         <item>Emilia Clarke</item>
+         <item>Eminem</item>
+         <item>Emma Stone</item>
+         <item>Halle Berry</item>
+         <item>Hulk Hogan</item> 
+        <item>J.K. Simmons</item> 
+        <item>Jake Gyllenhaal</item>
+         <item>Jennifer Lawrence</item>
+         <item>Jennifer Love Hewitt</item>
+        <item>Justin Trudeau</item>
+         <item>Kate Winslet</item>
+         <item>Katy Perry</item>
+         <item>Keira Knightley</item>
+         <item>Kevin Hart</item>
+         <item>Kobe Bryant</item>
+         <item>Lady Gaga</item>
+         <item>Leonardo DiCaprio</item>
+         <item>Maisie Williams</item>
+         <item>Margot Robbie</item>
+         <item>Marilyn Monroe</item> 
+        <item>Miley Cyrus</item>
+         <item>Naomi Watts</item>
+         <item>Natalie Portman</item>
+         <item>Rachael Ray</item>
+         <item>Robert Downey Jr.</item> 
+        <item>Rosa Parks</item>
+         <item>Ryan Reynolds</item> 
+        <item>Samuel L. Jackson</item>
+         <item>Sandra Bullock</item>
+        <item>Sean Connery</item>
+         <item>Selena Gomez</item>
+         <item>Taylor Swift</item>
+         <item>Tina Fey</item>
+         <item>Tom Cruise</item>
+         <item>Uma Thurman</item>
+         <item>Vin Diesel</item> 
+        <item>Vladimir Putin</item>
+         <item>Wesley Snipes</item>
+    </string-array><string-array name="movie">
+        <item>American Gangster</item>
+        <item>Amy</item>
+        <item>Aquamarine</item>
+        <item>Batman v Superman: Dawn of Justice</item>
+        <item>Braveheart</item>
+        <item>Bridesmaids</item>
+        <item>Brooklyn</item>
+        <item>Burnt</item>
+        <item>Captain America: Civil War</item>
+        <item>Cars</item>
+        <item>Cinderella</item>
+        <item>Conan the Barbarian</item>
+        <item>Deadpool</item>
+        <item>Divergent</item>
+        <item>Dr. Seuss\' The Cat in the Hat</item>
+        <item>Fantastic Four</item>
+        <item>Fifty Shades of Grey</item>
+        <item>First Blood</item>
+        <item>Gods of Egypt</item>
+        <item>Good Will Hunting</item>
+        <item>Guardians of the Galaxy</item>
+        <item>Harry Potter and the Chamber of Secrets</item>
+        <item>Highlander</item>
+        <item>Hotel Transylvania 2</item>
+        <item>Hunger Games: Catching Fire, The</item>
+        <item>In the Heart of the Sea</item>
+        <item>John Wick</item>
+        <item>Jurassic World</item>
+        <item>Keanu</item>
+        <item>Kingsman: The Secret Service</item>
+        <item>Knock Knock</item>
+        <item>Kung Fu Panda</item>
+        <item>Kung Fu Panda 2</item>
+        <item>Law-Abiding Citizen</item>
+        <item>Lego Movie, The</item>
+        <item>Live Die Repeat: Edge of Tomorrow</item>
+        <item>Love the Coopers</item>
+        <item>Mad Max: Fury Road</item>
+        <item>Man from U.N.C.L.E., The</item>
+        <item>Man of Steel</item>
+        <item>Martian, The</item>
+        <item>Pitch Perfect</item>
+        <item>Pitch Perfect 2</item>
+        <item>Professional, The</item>
+        <item>Reservoir Dogs</item>
+        <item>Revenant, The</item>
+        <item>Road to Perdition</item>
+        <item>Room</item>
+        <item>Scarface</item>
+        <item>Spectre</item>
+        <item>Spotlight</item>
+        <item>Star Wars: The Empire Strikes Back</item>
+        <item>Star Wars: The Force Awakens</item>
+        <item>Suicide Squad</item>
+        <item>Trumbo</item>
+        <item>Whiplash</item>
+        <item>Wizard of Oz, The</item>
+        <item>Wolf of Wall Street</item>
+        <item>Wreck-It Ralph</item>
+        <item>Zoolander</item>
+    </string-array></file><file path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/imageDrawables.xml" qualifiers=""><integer-array name="countryDrawable">
+        <item>@drawable/algeria</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/barbados</item>
+        <item>@drawable/belgium</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/canada</item>
+        <item>@drawable/chad</item>
+        <item>@drawable/chile</item>
+        <item>@drawable/china</item>
+        <item>@drawable/congo</item>
+        <item>@drawable/croatia</item>
+        <item>@drawable/denmark</item>
+        <item>@drawable/dominican</item>
+        <item>@drawable/england</item>
+        <item>@drawable/ethiopia</item>
+        <item>@drawable/egypt</item>
+        <item>@drawable/france</item>
+        <item>@drawable/germany</item>
+        <item>@drawable/ghana</item>
+        <item>@drawable/hongkong</item>
+        <item>@drawable/india</item>
+        <item>@drawable/indonesia</item>
+        <item>@drawable/iran</item>
+        <item>@drawable/iraq</item>
+        <item>@drawable/ireland</item>
+        <item>@drawable/israel</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/ivorycoast</item>
+        <item>@drawable/jamaica</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/kazakhstan</item>
+        <item>@drawable/kenya</item>
+        <item>@drawable/liechtenstein</item>
+        <item>@drawable/luxembourg</item>
+        <item>@drawable/mexico</item>
+        <item>@drawable/morocco</item>
+        <item>@drawable/netherlands</item>
+        <item>@drawable/newzealand</item>
+        <item>@drawable/nigeria</item>
+        <item>@drawable/northkorea</item>
+        <item>@drawable/pakistan</item>
+        <item>@drawable/paraguay</item>
+        <item>@drawable/peru</item>
+        <item>@drawable/poland</item>
+        <item>@drawable/portugal</item>
+        <item>@drawable/romania</item>
+        <item>@drawable/russia</item>
+        <item>@drawable/saudi</item>
+        <item>@drawable/scotland</item>
+        <item>@drawable/singapore</item>
+        <item>@drawable/slovakia</item>
+        <item>@drawable/southafrica</item>
+        <item>@drawable/southkorea</item>
+        <item>@drawable/swaziland</item>
+        <item>@drawable/thailand</item>
+        <item>@drawable/turkey</item>
+        <item>@drawable/uae</item>
+        <item>@drawable/usa</item>
+        <item>@drawable/vanuatu</item>
+        <item>@drawable/vietnam</item>
+    </integer-array><integer-array name="peopleDrawable">
+        <item>@drawable/alberteinstein</item>
+        <item>@drawable/angelamerkel</item>
+        <item>@drawable/angelinajolie</item>
+        <item>@drawable/antoniobanderas</item>
+        <item>@drawable/audreyhepburn</item>
+        <item>@drawable/benaffleck</item>
+        <item>@drawable/benstiller</item>
+        <item>@drawable/benedictcumberbatch</item>
+        <item>@drawable/brucewillis</item>
+        <item>@drawable/bryancranston</item>
+        <item>@drawable/chrisevans</item>
+        <item>@drawable/chrispratt</item>
+        <item>@drawable/christianbale</item>
+        <item>@drawable/christinaaguilera</item>
+        <item>@drawable/cocochanel</item>
+        <item>@drawable/daisyridley</item>
+        <item>@drawable/princessdiana</item>
+        <item>@drawable/djkhaled</item>
+        <item>@drawable/donaldtrump</item>
+        <item>@drawable/dwaynejohnson</item>
+        <item>@drawable/eddiemurphy</item>
+        <item>@drawable/elvispresley</item>
+        <item>@drawable/emiliaclarke</item>
+        <item>@drawable/eminem</item>
+        <item>@drawable/emmastone</item>
+        <item>@drawable/halleberry</item>
+        <item>@drawable/hulkhogan</item>
+        <item>@drawable/jksimmons</item>
+        <item>@drawable/jakegyllenhaal</item>
+        <item>@drawable/jenniferlawrence</item>
+        <item>@drawable/jenniferlovehewitt</item>
+        <item>@drawable/justintrudeau</item>
+        <item>@drawable/katewinslet</item>
+        <item>@drawable/katyperry</item>
+        <item>@drawable/keiraknightley</item>
+        <item>@drawable/kevinhart</item>
+        <item>@drawable/kobebryant</item>
+        <item>@drawable/ladygaga</item>
+        <item>@drawable/leonardodicaprio</item>
+        <item>@drawable/maisiewilliams</item>
+        <item>@drawable/margotrobbie</item>
+        <item>@drawable/marilynmonroe</item>
+        <item>@drawable/mileycyrus</item>
+        <item>@drawable/naomiwatts</item>
+        <item>@drawable/natalieportman</item>
+        <item>@drawable/rachaelray</item>
+        <item>@drawable/robertdowneyjr</item>
+        <item>@drawable/rosaparks</item>
+        <item>@drawable/ryanreynolds</item>
+        <item>@drawable/samueljackson</item>
+        <item>@drawable/sandrabullock</item>
+        <item>@drawable/seanconnery</item>
+        <item>@drawable/selenagomez</item>
+        <item>@drawable/taylorswift</item>
+        <item>@drawable/tinafey</item>
+        <item>@drawable/tomcruise</item>
+        <item>@drawable/umathurman</item>
+        <item>@drawable/vindiesel</item>
+        <item>@drawable/vladputin</item>
+        <item>@drawable/wesleysnipes</item>
+    </integer-array><integer-array name="foodDrawable">
+        <item>@drawable/allspice</item>
+        <item>@drawable/almondbutter</item>
+        <item>@drawable/almonds</item>
+        <item>@drawable/apricots</item>
+        <item>@drawable/bacon</item>
+        <item>@drawable/baguette</item>
+        <item>@drawable/beer</item>
+        <item>@drawable/blacberries</item>
+        <item>@drawable/broccoli</item>
+        <item>@drawable/cantaloupe</item>
+        <item>@drawable/cauliflower</item>
+        <item>@drawable/celery</item>
+        <item>@drawable/chives</item>
+        <item>@drawable/creamcheese</item>
+        <item>@drawable/eggplant</item>
+        <item>@drawable/eggs</item>
+        <item>@drawable/flaxseed</item>
+        <item>@drawable/fries</item>
+        <item>@drawable/garlicpowder</item>
+        <item>@drawable/greenbeans</item>
+        <item>@drawable/greenonions</item>
+        <item>@drawable/haddock</item>
+        <item>@drawable/horseradish</item>
+        <item>@drawable/jackcheese</item>
+        <item>@drawable/jicama</item>
+        <item>@drawable/kidneybeans</item>
+        <item>@drawable/lamb</item>
+        <item>@drawable/lasagna</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/lime</item>
+        <item>@drawable/mandarin</item>
+        <item>@drawable/marmalade</item>
+        <item>@drawable/marshmallow</item>
+        <item>@drawable/milk</item>
+        <item>@drawable/mushrooms</item>
+        <item>@drawable/nectarine</item>
+        <item>@drawable/octopus</item>
+        <item>@drawable/okra</item>
+        <item>@drawable/oregano</item>
+        <item>@drawable/peaches</item>
+        <item>@drawable/pesto</item>
+        <item>@drawable/plums</item>
+        <item>@drawable/poppyseeds</item>
+        <item>@drawable/pork</item>
+        <item>@drawable/rabbit</item>
+        <item>@drawable/rhubarb</item>
+        <item>@drawable/rice</item>
+        <item>@drawable/ricotta</item>
+        <item>@drawable/salmon</item>
+        <item>@drawable/salt</item>
+        <item>@drawable/sausages</item>
+        <item>@drawable/steak</item>
+        <item>@drawable/sweetpotatoes</item>
+        <item>@drawable/tomatosauce</item>
+        <item>@drawable/vanillaicecream</item>
+        <item>@drawable/venison</item>
+        <item>@drawable/walnuts</item>
+        <item>@drawable/watermelon</item>
+        <item>@drawable/wine</item>
+        <item>@drawable/yogurt</item>
+    </integer-array><integer-array name="movieDrawable">
+        <item>@drawable/americangangster</item>
+        <item>@drawable/amy</item>
+        <item>@drawable/aquamarine</item>
+        <item>@drawable/batmanvsuperman</item>
+        <item>@drawable/braveheart</item>
+        <item>@drawable/bridesmaids</item>
+        <item>@drawable/brooklyn</item>
+        <item>@drawable/burnt</item>
+        <item>@drawable/captainamerica</item>
+        <item>@drawable/cars</item>
+        <item>@drawable/cinderella</item>
+        <item>@drawable/conan</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/divergent</item>
+        <item>@drawable/drseuss</item>
+        <item>@drawable/fant4stic</item>
+        <item>@drawable/fiftyshades</item>
+        <item>@drawable/firstblood</item>
+        <item>@drawable/godsofegypt</item>
+        <item>@drawable/goodwill</item>
+        <item>@drawable/guardians</item>
+        <item>@drawable/harrypotter</item>
+        <item>@drawable/highlander</item>
+        <item>@drawable/hoteltransylvania</item>
+        <item>@drawable/thehungergames</item>
+        <item>@drawable/intheheart</item>
+        <item>@drawable/johnwick</item>
+        <item>@drawable/jurassicworld</item>
+        <item>@drawable/keanu</item>
+        <item>@drawable/kingsman</item>
+        <item>@drawable/knockknock</item>
+        <item>@drawable/kungfupanda</item>
+        <item>@drawable/kungfupanda2</item>
+        <item>@drawable/lawabiding</item>
+        <item>@drawable/thelegomovie</item>
+        <item>@drawable/livedierepeat</item>
+        <item>@drawable/lovethecoopers</item>
+        <item>@drawable/madmax</item>
+        <item>@drawable/themanfromuncle</item>
+        <item>@drawable/manofsteel</item>
+        <item>@drawable/themartian</item>
+        <item>@drawable/pitchperfect</item>
+        <item>@drawable/pitchperfect2</item>
+        <item>@drawable/theprofessional</item>
+        <item>@drawable/reservoirdogs</item>
+        <item>@drawable/therevenant</item>
+        <item>@drawable/roadtoperdition</item>
+        <item>@drawable/room</item>
+        <item>@drawable/scarface</item>
+        <item>@drawable/spectre</item>
+        <item>@drawable/spotlight</item>
+        <item>@drawable/starwarstheempire</item>
+        <item>@drawable/starwarstheforce</item>
+        <item>@drawable/suicidesquad</item>
+        <item>@drawable/trumbo</item>
+        <item>@drawable/whiplash</item>
+        <item>@drawable/thewizardofoz</item>
+        <item>@drawable/wolfofwallstreet</item>
+        <item>@drawable/wreckitralph</item>
+        <item>@drawable/zoolander</item>
+    </integer-array><integer-array name="teamDrawable">
+        <item>@drawable/anaheimducks</item>
+        <item>@drawable/asmonaco</item>
+        <item>@drawable/atlantafalcons</item>
+        <item>@drawable/atlantahawks</item>
+        <item>@drawable/atletico</item>
+        <item>@drawable/bayer</item>
+        <item>@drawable/borussia</item>
+        <item>@drawable/brooklynnets</item>
+        <item>@drawable/buffalosabres</item>
+        <item>@drawable/carolinapanthers</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/chicagofire</item>
+        <item>@drawable/cincinnatibengals</item>
+        <item>@drawable/clevelandindians</item>
+        <item>@drawable/dcunited</item>
+        <item>@drawable/denverbroncos</item>
+        <item>@drawable/everton</item>
+        <item>@drawable/barca</item>
+        <item>@drawable/bayern</item>
+        <item>@drawable/fiorentina</item>
+        <item>@drawable/floridapanthers</item>
+        <item>@drawable/hsv</item>
+        <item>@drawable/hertha</item>
+        <item>@drawable/indianapacers</item>
+        <item>@drawable/inter</item>
+        <item>@drawable/juventus</item>
+        <item>@drawable/lazio</item>
+        <item>@drawable/leicester</item>
+        <item>@drawable/lille</item>
+        <item>@drawable/malaga</item>
+        <item>@drawable/manchestercity</item>
+        <item>@drawable/manchesterunited</item>
+        <item>@drawable/milwaukeebucks</item>
+        <item>@drawable/minnesotawolve</item>
+        <item>@drawable/newyorkcityfc</item>
+        <item>@drawable/newyorkislanders</item>
+        <item>@drawable/nyyankees</item>
+        <item>@drawable/nice</item>
+        <item>@drawable/oaklandraiders</item>
+        <item>@drawable/marseille</item>
+        <item>@drawable/lyon</item>
+        <item>@drawable/palermo</item>
+        <item>@drawable/psg</item>
+        <item>@drawable/philadelphiaphillies</item>
+        <item>@drawable/portlandtimbers</item>
+        <item>@drawable/realmadrid</item>
+        <item>@drawable/sandiegopadres</item>
+        <item>@drawable/sanjosesharks</item>
+        <item>@drawable/sevilla</item>
+        <item>@drawable/sportingkc</item>
+        <item>@drawable/napoli</item>
+        <item>@drawable/texasrangers</item>
+        <item>@drawable/torontobluejays</item>
+        <item>@drawable/torontomapleleafs</item>
+        <item>@drawable/torontoraptors</item>
+        <item>@drawable/tottenham</item>
+        <item>@drawable/vancouverwhitecaps</item>
+        <item>@drawable/wolfsburg</item>
+        <item>@drawable/villareal</item>
+        <item>@drawable/washingtonredskins</item>
+    </integer-array></file><file path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values/strings.xml" qualifiers=""><string name="participantCode">Participant Code</string><string name="searchCode">Search Interface</string><string name="app_name">SearchInterfaceExperiment</string><string name="conditioncode">Condition Code</string><string name="blockcode">Block Code</string><string name="searchText">Search Interface = </string><string name="timeText">Time = </string><string name="ok">Begin</string><string name="save">Save</string><string name="reset">Setup</string><string name="sessionCode">Session Code</string><string name="groupCode">Group Code</string><string name="arrayText">Array = </string><string name="exit">Exit</string><string name="effText">Efficiency Rate = </string><string name="rateText">Search Rate = </string><string name="arrayCode">Trial</string><string name="initials">Initials</string></file><file path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:textSize">16sp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/generated/res/rs/debug"/><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/stefanoonorati/Documents/EECS4443/Final Project/projectcse13221/app/src/debug/res"/></dataSet><mergedItems/></merger>
